@@ -6,3 +6,5 @@
 ^README\.md$
 ^README\.html$
 figure/
+^.*\.Rproj$
+^\.Rproj\.user$
